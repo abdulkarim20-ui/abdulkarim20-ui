@@ -48,16 +48,6 @@ with a focus on:
   <li>IDE-native AI workflows</li>
 </ul>
 
-<hr/>
-
-<h2>📊 GitHub</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulkarim20-ui&theme=tokyonight&show_icons=true" height="150"/>
-</p>
-
-<hr/>
-
 <pre>
 Mindset: Think → Generate → Verify → Optimize
 </pre>
