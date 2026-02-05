@@ -1,45 +1,45 @@
-### Hello, Developer's!
-# ⚡ Abdulkarim.exe initializing...
+<h1 align="center">AbdulKarim</h1>
+<h3 align="center">Backend Developer • Systems & APIs</h3>
 
-> “Engineer. Innovator. Coffee Addict. Living on logic and late nights.”
+<p align="center">
+Focused on building reliable, scalable, and production-ready software.
+</p>
 
-💬 Just a Pune kid with a keyboard and a dream.  
-🛠️ Backend is home, frontend is playground, and systems are the gym.
+<hr/>
 
----
+<h2>👨‍💻 Profile</h2>
 
-## 👨‍💻 Code Mode: ON
+<ul>
+  <li>Backend-focused developer with system-level thinking</li>
+  <li>Experience in REST APIs, databases, and clean architecture</li>
+  <li>Strong debugging, optimization, and problem-solving skills</li>
+</ul>
 
-- 🔧 Tech Stack: Python | Java | Node.js | MongoDB | MySQL  
-- 🧩 Projects: Real-world focused | Scalable | Clean architecture  
-- 🚀 Learning Curve: DevOps | System Design | DSA grind  
-- 🤖 I break stuff, then fix it 10x better  
+<hr/>
 
----
+<h2>🧰 Skills</h2>
 
-🛠️ My Tech Lab
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,nodejs,mongodb,mysql,git,github,html,css,js,linux,docker" /> </p>
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,nodejs,mongodb,mysql,git,github,docker,linux" />
+</p>
 
-## 🔍 Mission Dashboard
+<ul>
+  <li><b>Languages:</b> Python, Java, JavaScript</li>
+  <li><b>Backend:</b> Node.js, API Design, Authentication</li>
+  <li><b>Databases:</b> MongoDB, MySQL</li>
+  <li><b>Tools:</b> Git, Docker, Linux</li>
+</ul>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=abdulkarim20-ui&theme=tokyonight&show_icons=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulkarim20-ui&theme=tokyonight)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkarim20-ui&layout=compact&theme=tokyonight)
+<hr/>
 
----
+<h2>📈 GitHub Activity</h2>
 
-### 🧬 Contribution Matrix
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulkarim20-ui&show_icons=true&theme=tokyonight" height="150"/>
+</p>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulkarim20-ui&theme=react-dark)](https://github.com/abdulkarim20-ui)
+<hr/>
 
----
-
-
-## 🚀 Booting Up My Mindset
-
-```bash
-> Initializing Brain...
-> Importing 🔥 Passion, 🧠 Logic, and 🛠️ Precision...
-> Quote of the Day: “Code never lies, comments sometimes do.”
----
+<pre>
+Principle: Clean code • Clear logic • Real-world impact
+</pre>
