@@ -1,45 +1,63 @@
 <h1 align="center">AbdulKarim</h1>
-<h3 align="center">Backend Developer • Systems & APIs</h3>
+<h3 align="center">AI / LLM Engineer • Backend Systems</h3>
 
 <p align="center">
-Focused on building reliable, scalable, and production-ready software.
+Designing intelligent systems that are practical, scalable, and production-ready.
 </p>
 
 <hr/>
 
-<h2>👨‍💻 Profile</h2>
+<h2>🧠 Core Expertise</h2>
 
 <ul>
-  <li>Backend-focused developer with system-level thinking</li>
-  <li>Experience in REST APIs, databases, and clean architecture</li>
-  <li>Strong debugging, optimization, and problem-solving skills</li>
+  <li>LLM Integration & Prompt Engineering</li>
+  <li>RAG Pipelines & Vector Databases</li>
+  <li>Agentic Systems & Tool-Calling Workflows</li>
+  <li>Backend APIs for AI Products</li>
 </ul>
 
 <hr/>
 
-<h2>🧰 Skills</h2>
+<h2>🛠️ Technical Skills</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,nodejs,mongodb,mysql,git,github,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,nodejs,mongodb,mysql,html,css,docker,linux,git,github,figma" />
 </p>
 
 <ul>
-  <li><b>Languages:</b> Python, Java, JavaScript</li>
-  <li><b>Backend:</b> Node.js, API Design, Authentication</li>
-  <li><b>Databases:</b> MongoDB, MySQL</li>
-  <li><b>Tools:</b> Git, Docker, Linux</li>
+  <li><b>AI / ML:</b> LLMs, RAG, Embeddings, VectorDBs, Agentic Architectures</li>
+  <li><b>Backend:</b> Python, Node.js, REST APIs, Authentication</li>
+  <li><b>Frontend:</b> HTML, CSS (UI understanding for AI tools)</li>
+  <li><b>Databases:</b> MongoDB, MySQL, Vector Databases</li>
+  <li><b>DevOps:</b> Docker, Linux, GitHub</li>
 </ul>
 
 <hr/>
 
-<h2>📈 GitHub Activity</h2>
+<h2>🚀 What I’m Building</h2>
+
+<p>
+Currently working on an <b>AI-powered coding IDE</b> that enables users to write, refactor, 
+and manage code using LLMs — inspired by tools like <b>Cursor</b> and <b>Antigravity</b>, 
+with a focus on:
+</p>
+
+<ul>
+  <li>Context-aware code generation</li>
+  <li>Agent-driven task execution</li>
+  <li>IDE-native AI workflows</li>
+</ul>
+
+<hr/>
+
+<h2>📊 GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulkarim20-ui&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulkarim20-ui&theme=tokyonight&show_icons=true" height="150"/>
 </p>
 
 <hr/>
 
 <pre>
-Principle: Clean code • Clear logic • Real-world impact
+Mindset: Think → Generate → Verify → Optimize
 </pre>
