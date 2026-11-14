@@ -1,54 +1,48 @@
-<img src="assets/banner.png" alt="Abdulkarim Shaikh" width="100%">
+# Hi, I'm Abdulkarim 👋
 
-<h1 align="center">Abdulkarim Shaikh</h1>
+**AI & Python Developer building AI automation and applied AI systems.**
+I turn real-world workflows into working AI solutions, from the model call to the API to deployment.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=560&lines=AI%2FML+Engineer;Agentic+AI+%7C+RAG+%7C+LLM+Apps;Building+tool-calling+agents" alt="typing">
-</p>
+- 🔭 Building agentic AI systems, RAG pipelines and LLM-powered tools
+- ⚙️ Python and FastAPI backends with tool calling, grounding and guardrails
+- 💼 AI/ML Engineer Intern at NeuAI Labs (Dec 2024 – Feb 2025)
+- 🎓 B.E. in Artificial Intelligence & Data Science, 2026
+- 📄 First-author research on AI coding agents and dynamic tool calling
+- 📍 Pune, India · Open to AI / Python roles
 
-<p align="center">
-  <a href="https://linkedin.com/in/abdulkarim27"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:abdulkarimsalimshaikh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
----
-
-```python
-class AbdulkarimShaikh:
-    role     = "AI/ML Engineer"
-    location = "Pune, India"
-    focus    = ["Agentic AI", "RAG", "LLM apps", "Tool/function calling"]
-    stack    = ["Python", "FastAPI", "LangChain", "LangGraph", "ChromaDB", "FAISS"]
-    models   = ["GPT-4o", "Gemini", "Groq", "Nemotron"]
-    research = "AI Powered Coding Agent (published, first author)"
-    status   = "Open to AI/ML roles"
-```
-
-## 🔧 What I Build
-
-- Multi-agent workflows and tool-enabled AI systems
-- RAG pipelines with vector retrieval
-- LLM applications and APIs with FastAPI
-- AI-powered developer tools
-
-## 📄 Research
-
-**AI Powered Coding Agent: Software for Smart Coding and Developer Assistance**
-Int. J. on Advanced Computer Theory and Engineering, Vol. 15, Issue 2S, pp. 125–134 (May 2026)
+<br>
 
 ## 🧰 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,fastapi,nodejs,tensorflow,sklearn,pandas,numpy,docker,git,mysql,electron" alt="stack">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,tensorflow,sklearn,docker,git,github,linux,ts,js,nodejs,mysql&perline=12" alt="Tech stack">
+  </a>
 </p>
 
-- **LLM & Agents:** OpenAI, Gemini, Groq, LangChain, LangGraph, Prompt Engineering, Guardrails
-- **RAG:** Embeddings, ChromaDB, FAISS
-- **ML:** TensorFlow, Scikit-learn, HuggingFace Transformers, NLP, Fine-Tuning
+**LLMs & Agents:** OpenAI · Gemini · Groq · LangChain · LangGraph · Function Calling
+**RAG & Retrieval:** Embeddings · ChromaDB · FAISS
+**ML & NLP:** Scikit-learn · TensorFlow · HuggingFace Transformers
+**Backend:** FastAPI · REST APIs · Pydantic · SQL
 
-## 📊 GitHub Stats
+<br>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abdulkarim20-ui&show_icons=true&theme=tokyonight&hide_border=true">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkarim20-ui&layout=compact&theme=tokyonight&hide_border=true">
+## 📄 Publication
+
+**AI Powered Coding Agent: Software for Smart Coding and Developer Assistance**
+International Journal on Advanced Computer Theory and Engineering, Vol. 15, Issue 2S, pp. 125–134 · May 2026 · First author
+
+🔗 [Read the paper →](https://journals.mriindia.com/index.php/ijacte/article/view/2982)
+
+<br>
+
+## 🤝 Connect
+
+<p>
+  <a href="https://linkedin.com/in/abdulkarim27">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn">
+  </a>
+  <a href="mailto:abdulkarimsalimshaikh@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email">
+  </a>
 </p>
