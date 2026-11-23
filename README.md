@@ -7,8 +7,6 @@ I turn real-world workflows into working AI solutions, from the model call to th
 - ⚙️ Python and FastAPI backends with tool calling, grounding and guardrails
 - 💼 AI/ML Engineer Intern at NeuAI Labs (Dec 2024 – Feb 2025)
 - 🎓 B.E. in Artificial Intelligence & Data Science, 2026
-- 📄 First-author research on AI coding agents and dynamic tool calling
-- 📍 Pune, India · Open to AI / Python roles
 
 <br>
 
