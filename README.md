@@ -1,4 +1,4 @@
-# Hi, I'm Abdulkarim 👋
+# Hi, I'm AbdulKarim 👋
 
 **AI & Python Developer building AI automation and applied AI systems.**
 I turn real-world workflows into working AI solutions, from the model call to the API to deployment.
